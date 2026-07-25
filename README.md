@@ -124,8 +124,7 @@ CityFlo-Data-Analysis/
 │
 ├── cityflo-data-analysis.ipynb
 ├── cleaned_cityflo_dataset.csv
-├── README.md
-└── images/ (optional)
+└── README.md
 ```
 
 ---
