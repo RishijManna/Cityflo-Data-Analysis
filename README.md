@@ -1,10 +1,10 @@
-# 🚌 CityFlo Bus Service Data Analysis
+# CityFlo Bus Service Data Analysis
 
 A comprehensive **Exploratory Data Analysis (EDA)** project on the **CityFlo Bus Service – Metro Cities** dataset. This project analyzes booking patterns, customer behavior, trip performance, cancellations, delays, occupancy, and revenue to generate actionable business insights using Python.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project follows a complete data analytics workflow, including:
 
@@ -22,7 +22,7 @@ The objective is to transform raw transportation data into meaningful insights t
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 - **Dataset:** CityFlo Bus Service – Metro Cities
 - **Records:** 3,258
@@ -31,7 +31,7 @@ The objective is to transform raw transportation data into meaningful insights t
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Understand booking trends
 - Analyze customer demographics
@@ -44,7 +44,7 @@ The objective is to transform raw transportation data into meaningful insights t
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -60,7 +60,7 @@ The objective is to transform raw transportation data into meaningful insights t
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 ### Data Preprocessing
 
@@ -85,7 +85,7 @@ The objective is to transform raw transportation data into meaningful insights t
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 - Total Bookings
 - Completed Trips
@@ -101,7 +101,7 @@ The objective is to transform raw transportation data into meaningful insights t
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 The notebook includes multiple visualizations such as:
 
@@ -117,7 +117,7 @@ The notebook includes multiple visualizations such as:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 CityFlo-Data-Analysis/
@@ -129,7 +129,7 @@ CityFlo-Data-Analysis/
 
 ---
 
-## 🚀 Key Insights
+##  Key Insights
 
 - Identified booking and revenue trends.
 - Analyzed customer travel behavior.
@@ -140,7 +140,7 @@ CityFlo-Data-Analysis/
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Build an interactive Power BI dashboard.
 - Develop predictive models for demand forecasting.
